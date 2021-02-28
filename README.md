@@ -1,6 +1,6 @@
 # Escape
 
-Escape is a unity made game where you play as rocket and dodge various obstacles to reach the next levels.
+Escape is a unity made game where you play as rocket and dodge various obstacles to reach the next level.
 
 CONTROLS - 
 
